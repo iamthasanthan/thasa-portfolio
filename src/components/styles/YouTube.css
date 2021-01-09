@@ -1,0 +1,18 @@
+.youtubepage {
+}
+.youtube_title {
+  color: honeydew;
+  padding-top: 10%;
+  background-color: rgb(204, 44, 44);
+  padding-bottom: 5%;
+}
+.videos {
+  width: 100%;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.video {
+  margin-top: 10px;
+}

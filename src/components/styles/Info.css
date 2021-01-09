@@ -1,0 +1,9 @@
+.profile_card {
+  padding-top: 5%;
+  width: 100%;
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background: #22252e;
+}

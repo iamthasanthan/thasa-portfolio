@@ -1,0 +1,15 @@
+.skillspage {
+}
+.skills_title {
+  padding-top: 10%;
+  background-color: #22252e;
+  padding-bottom: 5%;
+  color: aliceblue;
+}
+.skills {
+  width: 100%;
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
